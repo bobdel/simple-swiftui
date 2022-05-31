@@ -21,6 +21,7 @@ struct SelectSomethingView: View {
 
             Text("Please select an item to view.")
 
+            // swiftlint:disable:next line_length
             Text("**Note:** All the text in this app was served up from the Guardian API via Hacking with Swift, and all copyright belongs to Guardian News and Media Limited or its affiliate companies. Please don't rely on it for productions apps, commercial purposes, or indeed anything important, because the feed might go away at any point in the future without warning, and your code will just break.")
                 .padding()
         }

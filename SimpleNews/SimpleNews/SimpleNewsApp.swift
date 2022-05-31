@@ -18,4 +18,5 @@ struct SimpleNewsApp: App {
             }
         }
     }
+
 }
